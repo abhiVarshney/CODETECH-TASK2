@@ -18,6 +18,7 @@ The objective of this Library Management System project is to streamline the pro
 ### Technologies Used-
 
 **Front-end** - HTML, CSS, Bootstrap 
+
 **Back-end** - Django (Python)
 
 
