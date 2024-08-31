@@ -22,7 +22,7 @@ The objective of this Library Management System project is to streamline the pro
 **Back-end** - Django (Python)
 
 
-### Screeshots
+### Screenshots
 
 ![image](https://github.com/user-attachments/assets/8ecbd1f5-314c-4424-b53b-81ac509167a6)
 ![image](https://github.com/user-attachments/assets/26826664-aa2b-4a29-8789-4560f26b77d5)
